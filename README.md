@@ -1,2 +1,7 @@
 # hello-world
-just trying out
+
+Hi,
+
+I am a coding enthusiast, and I hope this enthusiasm will last longer than usual.
+
+Cheers
